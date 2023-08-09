@@ -11,7 +11,7 @@ on:
       - main
 
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 16 * * *"
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
