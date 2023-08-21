@@ -2,9 +2,6 @@
 
 <!-- 标题 + 个人描述 -->
 <div align="center">
-  <!-- <h1 height="200px" align="center">
-    #> Welcome <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">
-  </h1> -->
   <a href="https://www.keenechen.cn"><img src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/KeeneChen.svg" width = "500" height = "90" alt="KeeneChen" align="center"/><a/><img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="60">
 
 <a href="https://www.keenechen.cn"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=B55756&center=true&vCenter=true&width=550&height=30&lines=%E7%BA%B8%E4%B8%8A%E5%BE%97%E6%9D%A5%E7%BB%88%E8%A7%89%E6%B5%85%2C%E7%BB%9D%E7%9F%A5%E6%AD%A4%E4%BA%8B%E8%A6%81%E8%BA%AC%E8%A1%8C%E3%80%82;learning+the+Internet+of+Things%2C;a+technology+enthusiast%2C;and+I+enjoy+listening+to+Taylor+Swift's+songs." alt="Typing SVG" /></a>
@@ -35,9 +32,8 @@
   <img src="https://img.shields.io/badge/-Huawei-FF0000?logo=huawei&logoColor=fff">
   <img src="https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=fff">
   <img src="https://img.shields.io/badge/-Allwinner-0c6bcd?logo=arm&logoColor=fff"> -->
-
-  <br />
 </div>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/contact.svg"/>
@@ -45,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/assets/contact1.svg" width = "300" height = "200" alt="KeeneChen" align="right"/>
 </picture>
 
-<!-- <h2 align="left"></h2> -->
+<!-- 个人信息 -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=B55756&repeat=false&width=108&height=38&lines=%23%3E+load" alt="Typing SVG" />
 <!-- <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" width = "60"/> `MjQyMTk4NTIyMg==`
 <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/> `SGVsbG9DaGVuSks=`
@@ -58,24 +54,85 @@
 - 🦄 Blog : [www.keenechen.cn](https://www.keenechen.cn)
 - 📧 Email : [hellochenjk@gmail.com](https://mail.google.com)
 
-<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/github-snake.svg" />
+<!-- skill-icons -->
+<table>
+  <tr>
+    <th>
+      <div align="center">main</div>
+    </th>
+    <th><div align="center">dev</div></th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust,py" />
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2"><div align="center">other</div></th>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <img
+          src="https://skillicons.dev/icons?i=qt,linux,nginx,cmake,mysql,postgres,mongodb,sqlite,vim,git,vscode,grafana,blender,ai,ps,pr&perline=8" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="./assets/github-snake-dark.svg" />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="./assets/github-snake.svg" />
+        <img
+          width="100%"
+          alt="github-snake"
+          src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/github-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-  <br/>
-</picture>
+<br/>
 
-<!-- <h2 align="center"> #> Stats </h2> -->
+<!-- GitHub 状态 -->
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=B55756&repeat=false&width=105&height=38&lines=%23%3E+boot" alt="Typing SVG" />
 </div>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Keene-Chen&hide_title=true&show_icons=true&line_height=20&count_private=true&bg_color=circle,ee3a88,b96dbd,859df0&text_color=fafebe&title_color=EDF7D2&icon_color=EDF7D2&hide_border=true&locale=cn" />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keene-Chen&layout=compact&text_color=fafebe&bg_color=circle,859df0,b96dbd,ee3a88&hide_border=true&hide_title=true&card_width=50%&locale=cn" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Keene-Chen&theme=tokyo-night&hide_border=true&radius=5&area=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <!-- profile-3d-contrib 3D贡献图-->
+      <img src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/profile-3d-contrib/profile-night-rainbow.svg" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keene-Chen&hide_title=true&show_icons=true&line_height=20&count_private=true&bg_color=circle,ee3a88,b96dbd,859df0&text_color=fafebe&title_color=EDF7D2&icon_color=EDF7D2&hide_border=true&locale=cn" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keene-Chen&layout=compact&text_color=fafebe&bg_color=circle,859df0,b96dbd,ee3a88&hide_border=true&hide_title=true&card_width=50%&locale=cn" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keene-Chen&theme=tokyo-night&hide_border=true&radius=5&area=true" />
-  <!-- profile-3d-contrib 3D贡献图-->
-  <img src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+![Metrics](https://metrics.lecoq.io/Keene-Chen?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FShanghai)
