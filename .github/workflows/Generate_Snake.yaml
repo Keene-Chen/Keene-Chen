@@ -9,10 +9,10 @@ on:
   push:
     branches:
       - main
-
   schedule:
     - cron: "0 16 * * *"
-
+  workflow_dispatch:
+    push: { branches: ["master", "main"] }
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
   # 创建 Snake, 用 Platane/snk 生成图片, see: https://github.com/Platane/snk
