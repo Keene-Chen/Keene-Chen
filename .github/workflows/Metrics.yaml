@@ -25,6 +25,9 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/github-metrics.svg
+          branch: main
+          default_author: github_actions
+          message: "👻 Metrics"
 
           # Options
           user: Keene-Chen
