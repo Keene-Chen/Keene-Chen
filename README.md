@@ -2,7 +2,7 @@
 
 <!-- 标题 + 个人描述 -->
 <div align="center">
-  <a href="https://www.keenechen.cn"><img src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/KeeneChen.svg" width = "500" height = "90" alt="KeeneChen" align="center"/><a/><img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="60">
+  <a href="https://www.keenechen.cn"><img src="https://cdn.jsdelivr.net/gh/Keene-Chen/Keene-Chen/assets/KeeneChen_Animation.svg" width = "500" height = "90" alt="KeeneChen" align="center"/><a/><img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="60">
 
 <a href="https://www.keenechen.cn"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=B55756&center=true&vCenter=true&width=550&height=30&lines=%E7%BA%B8%E4%B8%8A%E5%BE%97%E6%9D%A5%E7%BB%88%E8%A7%89%E6%B5%85%2C%E7%BB%9D%E7%9F%A5%E6%AD%A4%E4%BA%8B%E8%A6%81%E8%BA%AC%E8%A1%8C%E3%80%82;learning+the+Internet+of+Things%2C;a+technology+enthusiast%2C;and+I+enjoy+listening+to+Taylor+Swift's+songs." alt="Typing SVG" /></a>
 
@@ -50,7 +50,7 @@
 [www.keenechen.cn](https://www.keenechen.cn) -->
 
 - 🐧 QQ : `MjQyMTk4NTIyMg==`
-- 💬 WeChat : `SGVsbG9DaGVuSks=`
+- 💬 WeChat : `S2VlbmVDaGVuOTk=`
 - 🦄 Blog : [www.keenechen.cn](https://www.keenechen.cn)
 - 📧 Email : [hellochenjk@gmail.com](https://mail.google.com)
 
