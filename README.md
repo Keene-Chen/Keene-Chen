@@ -70,12 +70,12 @@
     </td>
     <td>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue" />
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,vite,nuxt" />
       </div>
     </td>
   </tr>
   <tr>
-    <th colspan="2"><div align="center">other</div></th>
+    <th colspan="2"><div align="center">features</div></th>
   </tr>
   <tr>
     <td colspan="2">
