@@ -11,7 +11,7 @@
       }
 
       .cls-2 {
-        animation: line 20s linear infinite reverse, fill 20s linear infinite;
+        animation: line 10s linear infinite reverse, fill 10s linear infinite;
       }
 
       @keyframes line {
